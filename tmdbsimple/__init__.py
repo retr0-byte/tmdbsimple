@@ -45,7 +45,7 @@ __all__ = ['Account', 'Authentication', 'GuestSessions', 'Lists',
            'Find', 'Trending',
            'Genres',
            'Movies', 'Collections', 'Companies', 'Keywords', 'Reviews',
-           'People', 'Credits'
+           'People', 'Credits',
            'Search',
            'TV', 'TV_Seasons', 'TV_Episodes', 'TV_Episode_Groups', 'TV_Changes', 'Networks'
            ]
